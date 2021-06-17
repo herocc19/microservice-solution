@@ -1,8 +1,0 @@
-.idea
-*/.idea
-*.iml
-
-*.log
-*.log.*
-
-*/target
